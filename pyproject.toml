@@ -2,8 +2,9 @@
 name = "ds-interview-mcp"
 version = "1.0.0"
 description = "MCP server for Data Science Analytical Interview Preparation Handbook"
-authors = [{ name = "DS Interview Prep Team" }]
+authors = [{ name = "Moshe Shamouilian", email = "Moshesham@gmail.com" }]
 readme = "README.md"
+urls = { repository = "https://github.com/moshesham/ds-interview-mcp-server" }
 requires-python = ">=3.10"
 dependencies = [
     "mcp>=1.0.0",
